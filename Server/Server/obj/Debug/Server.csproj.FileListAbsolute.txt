@@ -1,0 +1,16 @@
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Client\obj\Debug\Client.exe
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Client\obj\Debug\Client.pdb
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Client\bin\Debug\Client.exe
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Client\bin\Debug\Client.pdb
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Client\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Client\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Server\obj\Debug\Client.exe
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Server\obj\Debug\Client.pdb
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Server\bin\Debug\Client.exe
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Server\bin\Debug\Client.pdb
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Server\obj\Debug\Client.Form1.resources
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Server\obj\Debug\Client.Properties.Resources.resources
+C:\Users\AB - All Black\Desktop\Lap Trinh Mang\Client\Server\obj\Debug\Server.csproj.GenerateResource.Cache
